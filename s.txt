@@ -5,3 +5,6 @@ collabrators
 global information tracker
 developers space
 
+Git merge 
+git hub
+
